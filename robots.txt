@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arturtra.github.io/sitemap.html.gz
+Sitemap: https://arturtra.github.io/app/sitemap.html.gz
+Sitemap: https://arturtra.github.io/assets/sitemap.html.gz
+Sitemap: https://arturtra.github.io/css/sitemap.html.gz
+Sitemap: https://arturtra.github.io/data/sitemap.html.gz
+Sitemap: https://arturtra.github.io/includes/sitemap.html.gz
+Sitemap: https://arturtra.github.io/item/sitemap.html.gz
+Sitemap: https://arturtra.github.io/src/sitemap.html.gz
